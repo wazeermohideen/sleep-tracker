@@ -16,6 +16,7 @@ List all sleep logs
 Goals: 
 - Database Integration (Ideally NoSQL)
 - User Auth
+- Data Validation
 - Endpoint for Analytics (Possible Integration with BI)
 - Build Front-end
 - Deploy Application
