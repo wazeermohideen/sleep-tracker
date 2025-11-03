@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",  // JS version to output
+    "module": "commonjs",  // For Node.js modules (require/export)
+    "outDir": "./dist",    // Compiled JS goes here
+    "rootDir": "./src",    // Source TS files here
+    "strict": true,        // Enforces type safety (like strict mode in Power Automate validations)
+    "esModuleInterop": true,  // Easier imports
+    "skipLibCheck": true,  // Faster compiles
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src/**/*"],  // Compile everything in src/
+  "exclude": ["node_modules", "dist"]
+}

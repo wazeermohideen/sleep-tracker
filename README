@@ -1,0 +1,24 @@
+Spleep Tracker API - Development
+--------------------------------------------
+
+
+This project is being used for learning Node JS and its Event Loop and non blocking code.
+API Endpoints: 
+
+POST:
+/sleep-log: 
+Create a sleep log
+
+GET: 
+/sleep-logs:
+List all sleep logs
+
+Goals: 
+- Database Integration (Ideally NoSQL)
+- User Auth
+- Endpoint for Analytics (Possible Integration with BI)
+- Build Front-end
+- Deploy Application
+
+NOTE: This is only for learning purpose. Some of these are not really practical production application.
+
